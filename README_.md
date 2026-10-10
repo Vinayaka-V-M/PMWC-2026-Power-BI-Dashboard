@@ -35,4 +35,9 @@ The project aims to highlight every specific team, match, and map to show how te
 
 
 ---
-![Tooltip](Dashboard_Snapshots/Tooltip.png)
+![Grand Final MVPs](Grand%20Final%20MVPs.png)
+![Map Performance](Map%20Performance.png)
+![Team-Wise Analysis](Team-Wise%20Analysis.png)
+![Tooltip](Tooltip.png)
+![Tournament Overview Tooltip](Tournament%20Overview%20Tooltip.png)
+![Tournament Overview](Tournament%20Overview.png)
